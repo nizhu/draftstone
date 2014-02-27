@@ -1,0 +1,38 @@
+[
+  {
+    "name": "warrior",
+    "image": "http://wow.zamimg.com/images/hearthstone/cards/enus/medium/HERO_01.png"
+  },
+  {
+    "name": "shaman",
+    "image": "http://wow.zamimg.com/images/hearthstone/cards/enus/medium/HERO_02.png"
+  },
+  {
+    "name": "rogue",
+    "image": "http://wow.zamimg.com/images/hearthstone/cards/enus/medium/HERO_03.png"
+  },
+  {
+    "name": "paladin",
+    "image": "http://wow.zamimg.com/images/hearthstone/cards/enus/medium/HERO_04.png"
+  },
+  {
+    "name": "hunter",
+    "image": "http://wow.zamimg.com/images/hearthstone/cards/enus/medium/HERO_05.png"
+  },
+  {
+    "name": "druid",
+    "image": "http://wow.zamimg.com/images/hearthstone/cards/enus/medium/HERO_06.png"
+  },
+  {
+    "name": "warlock",
+    "image": "http://wow.zamimg.com/images/hearthstone/cards/enus/medium/HERO_07.png"
+  },
+  {
+    "name": "mage",
+    "image": "http://wow.zamimg.com/images/hearthstone/cards/enus/medium/HERO_08.png"
+  },
+  {
+    "name": "priest",
+    "image": "http://wow.zamimg.com/images/hearthstone/cards/enus/medium/HERO_09.png"
+  }
+]
